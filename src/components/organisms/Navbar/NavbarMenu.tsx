@@ -1,7 +1,7 @@
 export default function NavbarMenu() {
     return (
         <li>
-            <a className="text-yellow-500 text-xl">
+            <a className="text-white text-l p-4">
                 awdawdaw
             </a>
         </li>
